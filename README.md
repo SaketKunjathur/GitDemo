@@ -1,2 +1,2 @@
 # GitDemo
-Author - Saket Harish Kunjathur
+Author - Saket Kunjathur
